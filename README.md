@@ -7,3 +7,5 @@ Static site for the iOS game *Beware The Chair*, hosted on GitHub Pages. Holds t
 - `privacy.html` – privacy policy URL
 
 Edit the HTML, commit, and Pages republishes in about a minute. Keep `privacy.html` in step with the App Privacy answers in App Store Connect.
+
+The site loads nothing from other servers: no web fonts, scripts, analytics or embeds (the privacy policy says so). Keep it that way, or update `privacy.html`.
